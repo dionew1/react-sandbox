@@ -1,0 +1,15 @@
+.food-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 auto;
+  border-bottom: 1px solid #60ABBA;
+}
+
+.food-name {
+  font-size: 120%;
+}
+
+.food-calories {
+  font-size: 120%;
+}

@@ -1,0 +1,16 @@
+.food-list {
+  background-color: #F0FAF7;
+  width: 60%;
+  margin: 0 auto 3.5% auto;
+  padding: 2.5% 5%;
+  border-radius: 5px;
+}
+
+.title-row {
+  border-bottom: 1.25px solid #007991;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 135%;
+}

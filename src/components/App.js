@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-
+        <h1 className="my-foods-header">Manage Foods</h1>
       </div>
     );
   }

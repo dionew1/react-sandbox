@@ -1,0 +1,37 @@
+.food-form {
+  width: 60%;
+  background-color: #F0FAF7;
+  margin: 0 auto 7.5% auto;
+  padding: 2.5% 5%;
+  border-radius: 5px;
+}
+
+.add-food-header {
+  text-align: center;
+  color: #007991;
+}
+
+.add-food-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input,
+.add-food-btn {
+  margin: 10px 0;
+  outline: none;
+  border: none;
+  padding: 10px;
+  font-size: 100%;
+}
+
+.input {
+  background-color: #F0FAF7;
+  border-bottom: 1.25px solid #007991;
+}
+
+.add-food-btn {
+  background-color: #007991;
+  margin-top: 30px;
+  color: #fff;
+}
